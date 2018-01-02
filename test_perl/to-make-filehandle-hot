@@ -1,0 +1,4 @@
+#	 to make filehandle hot
+	 select((select(STDOUT), $|=1)[0]);
+	 select((select(STDERR), $|=1)[0]);
+	 select((select(OUT), $|=1)[0]);

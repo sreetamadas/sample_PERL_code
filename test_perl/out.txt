@@ -1,0 +1,7 @@
+abd
+chg
+123
+456
+11p
+s2e
+you have reached end of file,count is 6
